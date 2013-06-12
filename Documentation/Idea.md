@@ -10,10 +10,11 @@ The Rectangle Selection tool is designed to select rectangular regions of the ac
 [Ellipse Selection Tool][3] `E` 
 The Ellipse Selection tool is designed to select circular and elliptical regions from an image, with high-quality anti-aliasing.
 
-
+*Improvements* : Needs Rotation; so that more than the basic shapes can be achieved; More shapes other than Rectangle and Ellipse needs to be introduced
 
 [0]: http://www.gimp.org/ "Gimp"
 [1]: http://docs.gimp.org/en/gimp-tools-selection.html "Selection Tool"
 [2]: http://docs.gimp.org/en/gimp-tool-rect-select.html "Rectangle Selection Tool"
-[3] http://docs.gimp.org/en/gimp-tool-ellipse-select.html "Ellipse Selection Tool"
+[3]: http://docs.gimp.org/en/gimp-tool-ellipse-select.html "Ellipse Selection Tool"
+
 
