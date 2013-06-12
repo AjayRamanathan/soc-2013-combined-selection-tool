@@ -25,6 +25,7 @@ The Free Selection tool, or Lasso, lets you create a selection by drawing it fre
 [Intelligent Scissors][9] `I`
 Intelligent Scissors is useful when you are trying to select a region defined by strong color-changes at the edges.
 
+*Improvements* : *Both the tools are very similar;can be combined to make a easy to use tool.Intelligent scissors is a free select tool, where the curve between anchors is shifted to sharp-edges/colour changes.*
 
 [1]: http://docs.gimp.org/en/gimp-tools-selection.html "Selection Tool"
 [2]: http://docs.gimp.org/en/gimp-tool-rect-select.html "Rectangle Selection Tool"
