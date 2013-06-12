@@ -33,3 +33,6 @@ Intelligent Scissors is useful when you are trying to select a region defined by
 [4]: http://docs.gimp.org/en/gimp-tool-by-color-select.html "Select by Color"
 [6]: http://docs.gimp.org/en/gimp-tool-foreground-select.html "Foreground Select Tool"
 [7]: http://www.siox.org/ "SIOX"
+[8]: http://docs.gimp.org/en/gimp-tool-free-select.html
+[9]: http://docs.gimp.org/en/gimp-tool-iscissors.html
+
