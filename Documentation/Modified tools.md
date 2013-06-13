@@ -2,14 +2,14 @@
 
 The selection tool has to be one tool for three major types of selection: 
 1. **Shape** 
-2. **Colour** 
+2. **Color** 
 3. **Content**
 
 *Shape Selection Tool* :
 A Combination of Rectangle & Ellipse Selection Tool and few new tools
 
-*Colour Selection Tool* :
-It combines Select by Colour and Fuzzy Select; and includes Multiple colour selection thus it can puesdo for Foreground Select
+*Color Selection Tool* :
+It combines Select by Color and Fuzzy Select; and includes Multiple color selection thus it can puesdo for Foreground Select
 
 *Path Selection Tool* :
 It combines both magnetic and free select tool, and also implements free polygon tool.
@@ -70,7 +70,7 @@ e)Normal Polygon selection tool:
 	11.N [Integer Box] 
 	    Only for Normal Polygon selection tool
 		
-#Selection by Colour:
+#Selection by Color:
 
 **Tool Options**
 
@@ -84,9 +84,9 @@ This check box would act as a switch between fuzzy select and select by color;If
 `gimp_image_gontiguous_region_by_color` and `imp_image_gontiguous_region_by_seed`	
     
 	5.Selected by [Check Box] [Drop-Down]
-	6.Multiple Colour [Check Box] [Space to show Colours selected]  
+	6.Multiple Color [Check Box] [Space to show Colors selected]  
 	
-`Shift + click` : Add Colour; `Ctrl+ click` : Delete Colour
+`Shift + click` : Add Color; `Ctrl+ click` : Delete Color
 
     7.Brush Panel [Check box]
 
