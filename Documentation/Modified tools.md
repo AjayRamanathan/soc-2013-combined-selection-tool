@@ -82,7 +82,18 @@ e)Normal Polygon selection tool:
 This check box would act as a switch between fuzzy select and select by color;If else statement between
 
 `gimp_image_gontiguous_region_by_color` and `imp_image_gontiguous_region_by_seed`	
+    
+	5.Selected by [Check Box] [Drop-Down]
+	6.Multiple Colour [Check Box] [Space to show Colours selected]  
+	
+`Shift + click` : Add Colour; `Ctrl+ click` : Delete Colour
 
+    7.Brush Panel [Check box]
+
+Allows you to have a brush; from which you can select multiple colors.	
+	
+    8.Size [Slider] [Integer Box]
+    
 
 		
 
