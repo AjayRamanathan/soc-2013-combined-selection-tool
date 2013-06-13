@@ -21,7 +21,7 @@ It combines both magnetic and free select tool, and also implements free polygon
 Mode [Existing]:
 Default,
 Addition `Shift`,
-Subraction `Ctrl`,
+Subtraction `Ctrl`,
 Intersection `Ctrl + Shift`.
 
 Anti-aliasing [Existing]:
@@ -30,6 +30,21 @@ Anti-aliasing [Existing]:
 Feather Edges [Existing]:
 [Check Box] and [Radius in px; Slider] 
 
-Other Shortcuts
+Other Shortcuts:
 `Space` [Existing]:Panning around image
+
+#Shape Selection Tool: 
+
+a)Rectangle selection tool
+
+b)Ellipse selection tool
+
+c)Rounded rectangle selection tool
+
+d)Single Row/Column Marquee tool:
+  As the lice tool is not yet implemented in gimp; it can be useful for web-design
+
+e)Normal Polygon selection tool: 
+ Given a Integer,N,Generates only symmetric shapes.
+ 
 
