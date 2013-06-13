@@ -69,5 +69,21 @@ e)Normal Polygon selection tool:
 	    Only for Single Row/Column Marquee tool
 	11.N [Integer Box] 
 	    Only for Normal Polygon selection tool
+		
+#Selection by Colour:
+
+**Tool Options**
+
+    1.Select transparent area [Check Box] 
+    2.Sample Merged [Check Box]
+    3.Threshold [Check Box] and [0 to 1; Slider]
+    4.Continuous [Check Box] 
+		
+This check box would act as a switch between fuzzy select and select by color;If else statement between
+
+`gimp_image_gontiguous_region_by_color` and `imp_image_gontiguous_region_by_seed`	
+
+
+		
 
 
