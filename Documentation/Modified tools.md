@@ -107,8 +107,8 @@ Pressing `Shift` and Drawing the curve will make sure the line is either 45/90 d
 By Pressing `Shift` and clicking on the anchor you can delete it; 
 and add new Anchors in the path [By clicking]
 
-By Pressing `Ctrl` and Dragging you can move the Anchor around 
-*If Magnetic check box is selected the path will rearrange itself to align with nearby high contrast edge*
+By Pressing `Ctrl` and Dragging you can move the Anchor around
+[*If Magnetic check box is selected the path will rearrange itself to align with nearby high contrast edge*]
 
 
 
