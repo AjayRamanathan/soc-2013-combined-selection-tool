@@ -85,12 +85,36 @@ e)Normal Polygon selection tool:
 	5.Selected by [Check Box] [Drop-Down]
 	6.Multiple Color [Check Box] [Space to show Colors selected]  
 	    
-`Shift + click` : *Add Color*; `Ctrl+ click` : *Delete Color*
+`Shift + click` : *Add Color*; `Ctrl + click` : *Delete Color*
 
     7.Brush Panel [Check box]
         Allows you to have a brush; from which you can select multiple colors.	
     8.Size [Slider] [Integer Box]
     
+#Free Selection
+
+**Tool Options**
+
+    1.Magnetic [Check Box] 
+        The most Biggest benefit is you can add  magnetic properties after selecting a free selection
+    2.Interactive Boundary [Check Box]
+
+
+**Shortcuts**
+
+Pressing `Ctrl` and Drawing the curve will make it magnetic.
+
+Pressing `Shift` and Drawing the curve will make sure the line is either 45/90 degree multiples.
+
+By Pressing `Shift` and clicking on the anchor you can delete it; 
+and add new Anchors in the path [By clicking]
+
+By Pressing `Ctrl` and Dragging you can move the Anchor around 
+*If Magnetic check box is selected the path will rearrange itself to align with nearby high contrast edge*
+
+
+
+
 
 		
 
