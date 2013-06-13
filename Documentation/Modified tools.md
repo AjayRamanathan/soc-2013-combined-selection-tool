@@ -42,9 +42,41 @@ b)Ellipse selection tool
 c)Rounded rectangle selection tool
 
 d)Single Row/Column Marquee tool:
-  As the lice tool is not yet implemented in gimp; it can be useful for web-design
+  *As the slice tool is not yet implemented in gimp; it can be useful for web-design.*
 
 e)Normal Polygon selection tool: 
- Given a Integer,N,Generates only symmetric shapes.
+  *Given a Integer,N,Generates only symmetric shapes.*
  
+**Shortcuts**:
+`Ctrl` : Start from Centre 
+`Shift` : Square/Circle; Maintain Aspect Ratio
+
+**Tool Options**
+
+Expand from the Centre [Check Box]
+
+Fixed [Drop Down-Menu] [Width;Height;Aspect Ratio;Size]
+
+Position [Drop Down-Menu] [px,m,cm,in]
+
+x [Int Box] y [Int Box]
+
+Size [Drop Down-Menu] [px,m,cm,in]
+
+x [Integer Box] y [Integer Box]
+
+Guides [Drop Down-Menu]
+
+Rotation [Check Box] [0-360 Slider/Integer Box]
+
+AutoShrink
+
+Shrink Merged
+
+Rounded Edges [Slider] (Only for Rounded Rectangle Selection tool)
+
+Row/Column [Boolean Box] (Only for Single Row/Column Marquee tool)
+
+N [Integer Box] (Only for Normal Polygon selection tool)
+
 
