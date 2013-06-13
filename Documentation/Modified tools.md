@@ -19,10 +19,10 @@ It combines both magnetic and free select tool, and also implements free polygon
 *This are options present in all three selection tools*
 
 Mode [Existing]:
-Default
-Addition `Shift`
-Subraction `Ctrl`
-Intersection `Ctrl + Shift`
+Default,
+Addition `Shift`,
+Subraction `Ctrl`,
+Intersection `Ctrl + Shift`.
 
 Anti-aliasing [Existing]:
 [Check Box]
@@ -31,6 +31,5 @@ Feather Edges [Existing]:
 [Check Box] and [Radius in px; Slider] 
 
 Other Shortcuts
-
 `Space` [Existing]:Panning around image
 
