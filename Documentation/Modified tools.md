@@ -53,30 +53,29 @@ e)Normal Polygon selection tool:
 
 **Tool Options**
 
-Expand from the Centre [Check Box]
+*Expand from the Centre [Check Box]
 
-Fixed [Drop Down-Menu] [Width;Height;Aspect Ratio;Size]
+*Fixed [Drop Down-Menu] [Width;Height;Aspect Ratio;Size]
 
-Position [Drop Down-Menu] [px,m,cm,in]
+*Position [Drop Down-Menu] [px,m,cm,in]
 
-x [Int Box] y [Int Box]
+*x [Int Box] y [Int Box]
 
-Size [Drop Down-Menu] [px,m,cm,in]
+*Size [Drop Down-Menu] [px,m,cm,in]
+**x [Integer Box]; y [Integer Box]
 
-x [Integer Box] y [Integer Box]
+*Guides [Drop Down-Menu]
 
-Guides [Drop Down-Menu]
+*Rotation [Check Box] [0-360 Slider/Integer Box]
 
-Rotation [Check Box] [0-360 Slider/Integer Box]
+*AutoShrink
 
-AutoShrink
+*Shrink Merged
 
-Shrink Merged
+*Rounded Edges [Slider] *Only for Rounded Rectangle Selection tool*
 
-Rounded Edges [Slider] (Only for Rounded Rectangle Selection tool)
+*Row/Column [Boolean Box] *Only for Single Row/Column Marquee tool*
 
-Row/Column [Boolean Box] (Only for Single Row/Column Marquee tool)
-
-N [Integer Box] (Only for Normal Polygon selection tool)
+*N [Integer Box] *Only for Normal Polygon selection tool*
 
 
