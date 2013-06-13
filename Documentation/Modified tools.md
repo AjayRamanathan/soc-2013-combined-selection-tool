@@ -18,17 +18,15 @@ It combines both magnetic and free select tool, and also implements free polygon
 
 *This are options present in all three selection tools*
 
-Mode [Existing]:
+    1.Mode
+	
 Default,
 Addition `Shift`,
 Subtraction `Ctrl`,
 Intersection `Ctrl + Shift`.
 
-Anti-aliasing [Existing]:
-[Check Box]
-
-Feather Edges [Existing]:
-[Check Box] and [Radius in px; Slider] 
+    2.Anti-aliasing[Check Box]
+	3.Feather Edges[Check Box] and [Radius in px; Slider] 
 
 Other Shortcuts:
 `Space` [Existing]:Panning around image
@@ -91,7 +89,7 @@ e)Normal Polygon selection tool:
         Allows you to have a brush; from which you can select multiple colors.	
     8.Size [Slider] [Integer Box]
     
-#Free Selection
+#Select by Content:
 
 **Tool Options**
 
